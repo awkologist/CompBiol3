@@ -1,6 +1,8 @@
 # CompBiol3
 
-Repository for my book "Computational Biology - A Practical Introduction to Bio Data Juggling with Worked Examples", 3rd Edition
+Repository for my book "Computational Biology - A Practical Introduction to Bio Data Juggling with Worked Examples", 3rd Edition, 2024
+
+You will find more information at [SpringerNature](https://link.springer.com/book/9783031703133)
 
 This extensively expanded 3rd edition offers a practical introduction to Bio Data Science. With a hands on-approach to learning, this book offers ample opportunity to practice:
  
@@ -20,4 +22,4 @@ Worked examples illustrate how to utilize various bioinformatics tools such as B
 - Identifying and mapping molecular structure mutations in viruses
 - Conducting genome-wide association studies
  
-All software tools and datasets mentioned are freely available, and all code is accessible as Jupyter Notebooks on GitHub. Drawing from the author's experiences and knowledge gained from both academia and industry, this book provides a practical and comprehensive approach to bioinformatics.
+All software tools and datasets mentioned are freely available. Drawing from the author's experiences and knowledge gained from both academia and industry, this book provides a practical and comprehensive approach to bioinformatics.
