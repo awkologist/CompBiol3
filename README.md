@@ -2,7 +2,7 @@
 
 The magic juggler presents ...
 
-| <img align="left" width="75" height="75" src="magic_juggler.png"> | ... repository for my book "Computational Biology - A Practical Introduction to Bio Data Juggling with Worked Examples", 3rd Edition, 2024 |
+<img align="left" width="75" height="75" src="magic_juggler.png"> ... repository for my book "Computational Biology - A Practical Introduction to Bio Data Juggling with Worked Examples", 3rd Edition, 2024
 
 ## About this Repository
 The folders are numbered in the same way as the chapters in the book are numbered:
