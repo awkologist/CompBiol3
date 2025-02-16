@@ -5,7 +5,9 @@ The magic juggler presents ...
 <img align="left" width="75" height="75" src="magic_juggler.png"> ... repository for my book "[Computational Biology](https://link.springer.com/book/9783031703133) - A Practical Introduction to Bio Data Juggling with Worked Examples", 3rd Edition, 2024
 
 ## About this Repository
-The folders are numbered in the same way as the chapters in the book are numbered:
+The best way to start and get an overview is by opening the [welcome](welcome.ipynb) notebook.
+
+All folders are numbered in the same way as the chapters in the book are numbered:
 
 - `05_TheBash` -> Working with Files
 - `07_TextEdit` -> Playing with Text and Data Files
